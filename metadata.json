@@ -1,0 +1,8 @@
+{
+  "name": "ESF Finanças Teens",
+  "description": "Uma rede social educativa focada em educação financeira para jovens, permitindo postagens de fotos, vídeos, áudios e artigos com moderação inteligente.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
